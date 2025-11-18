@@ -1,5 +1,5 @@
 # FitHeart-with-Kangi
-#App for HCM patients
+#App for HCM patients, created as part of Bristol Myers Squibb challenge for LauzHack 2023
 
 #LINK TO FIGMA
 
